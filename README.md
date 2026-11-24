@@ -14,3 +14,6 @@ terraform_data.demo
 
 Result
 GitOps deployment workflow successfully configured.
+
+Workflow Test
+Testing GitOps pull request deployment workflow.
